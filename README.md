@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LukeleLegend
+- 👋 Hi, I’m @Luke
 - 👀 I’m interested in Coding, Hockey, and Music
 - 🌱 I’m currently learning Software Engineering
 
